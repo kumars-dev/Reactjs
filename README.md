@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# TEXTUTILS APP PROJECT
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# STARTING WITH NAVBAR
+- Navbar is essential components in the website as useful for navigation.
+
+- so, without wasting any time I just use a bootstrap component to deal with navigation.
+
+- Thus, I have created a components folder to include all the pieces of the website into a single folder.
+
+- you have your own choice whether you create a different folder or mess up with in a single folder structure. Yes, You are right. It's a warning cause in future you will suffer.
+
+// Change the links according to your requirement such as Home, About, may be contact, or signup form link.
