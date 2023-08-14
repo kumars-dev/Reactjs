@@ -1,0 +1,25 @@
+.app
+{
+  min-height: 100vh;
+  background-color: transparent;
+}
+.app.dark{
+  background-color: #000000;
+  color: white;
+}
+.app.dark .dropdown-toggle.nav-link{
+  color: white;
+}
+.app.dark .dropdown-menu.show{
+  background-color: #000000;
+  color: white;
+  border: 1px solid white;
+}
+
+.app.dark .dropdown-menu.show a.dropdown-item{
+  color: white;
+}
+.app.dark .dropdown-divider
+{
+  border: 1px solid white;
+}
